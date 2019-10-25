@@ -29,6 +29,7 @@ https://github.com/dipcore/mstar-bin-tool
     链接：https://pan.baidu.com/s/1FklQ6dS1XPa6zSvYiqnJbg
     提取码：gpn7
 -------------------------------------------分割线-------------------------------------------------
+
 2.下载该项目所有源码并解压到桌面
 
 3.下载一个好用的HEX编辑器，我用的是 HxD Hex Editor
