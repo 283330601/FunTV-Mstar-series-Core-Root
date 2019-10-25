@@ -5,17 +5,26 @@ https://github.com/dipcore/mstar-bin-tool
 
 --------------------------------------------精简固件教程开始----------------------------------------
 1.从百度云网盘按实际机型下载官方固件
+
   下载地址：
+  
     638：
+    
     链接：https://pan.baidu.com/s/1OvSkfgozeHSmOn9XcEZPXA
     提取码：tciq
+    
     938：
+    
     链接：https://pan.baidu.com/s/1QlZG_RhuR4nJC9GpARiuQg
     提取码：hymi
+    
     648：
+    
     链接：https://pan.baidu.com/s/1dIUpZwW5XvdPnLfpEIIWAA
     提取码：9ady
+    
     338：
+    
     链接：https://pan.baidu.com/s/1FklQ6dS1XPa6zSvYiqnJbg
     提取码：gpn7
 -------------------------------------------分割线-------------------------------------------------
