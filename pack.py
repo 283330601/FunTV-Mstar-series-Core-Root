@@ -28,9 +28,6 @@
 '''
 	Footer structure
 	|MAGIC|CRC1: SWAPPED HEADER CRC32|CRC2: SWAPPED BIN CRC32|FIRST 16 BYTES OF HEADER|
-
-	# NB XGIMI uses HEADER+BIN+MAGIC+HEADER_CRC to calculate crc2
-	# Use USE_XGIMI_CRC2=True option to enable "XGIMI" mode
 '''
 
 import configparser
